@@ -1,5 +1,5 @@
 blueprint:
-  name: Automatic Fan Control based on Temperature
+  name: Stu's New Automatic Fan Control based on Temperature
   description: "## Fan ON/OFF Automation based on temperature, outside\
     \ temperature.\n\nFan turns on if the following conditions are met:\n  temperature\
     \ inside greater than your set threshold value\n 
