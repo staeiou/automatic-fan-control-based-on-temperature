@@ -108,7 +108,7 @@ action:
     - condition: or
       conditions:
       - condition: template
-        value_template: '{{ (temp_threshold_inside - hysteresis)|float > temp_inside|float
+        value_template: '{{ (temp_outside - hysteresis)|float > temp_inside|float
           }}
 
           '
